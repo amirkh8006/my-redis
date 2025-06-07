@@ -1,4 +1,4 @@
-# MyRedis (A Simple Redis-like In-Memory Database in Go)
+## MyRedis (A Simple Redis-like In-Memory Database in Go)
 
 This is a lightweight, Redis-like in-memory key-value store written in Go. It supports basic `Set`, `Get`, `Persist`, and `Load` operations using a map with concurrency safety.
 
